@@ -24,7 +24,7 @@ class ConsultantAndCareerAdvisor extends Component {
                                     <Card className="consultantAndCareerAdvisor__card">
                                         <Card.Img className="consultantAndCareerAdvisor__img" variant="top" src={userIcon} />
                                         <Card.Body>
-                                            <Card.Title className="consultantAndCareerAdvisor__title">Consultant</Card.Title>
+                                            <Card.Title className="consultantAndCareerAdvisor__title">Consultant / Industry Expert</Card.Title>
                                         </Card.Body>
                                     </Card>
                                 </Link>
